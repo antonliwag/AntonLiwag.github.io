@@ -1,0 +1,16 @@
+/* BASE STYLE */
+:root {
+    --clr-dark: #0f172a;
+    --clr-light: #f1f5f9;
+    --clr-accent: #2c3801;
+}
+
+.headyeah {
+    text-align: left;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.sampleimg {
+    image-resolution: 50%;
+}
