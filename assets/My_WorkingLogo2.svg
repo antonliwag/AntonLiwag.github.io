@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.4, SVG Export Plug-In . SVG Version: 9.03 Build 54784)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#93AD92;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#4DED45;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#CCAE33;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#6ABEFF;stroke-miterlimit:10;}
+</style>
+<g id="logoFill">
+	<path id="WLF" class="st0" d="M576,598.85L670.85,504H576v-94.85l-6.97-6.97L526.85,360l-8.73-8.73l-50.91-50.91L432,335.56
+		l-15.7,15.71l-8.74,8.73l-42.17,42.18l-5.39,5.38L335.56,432l-21.09,21.09L263.56,504H360v216h72v-78.97l35.21-35.2L497.03,576
+		l6.97-6.97V720h52.68L576,700.68l43.94-43.95l8.73-8.73H576V598.85z M504,467.21L467.21,504L432,539.21V437.38l5.38-5.38
+		l29.83-29.82L504,438.97V467.21z"/>
+	<polygon id="LF8" class="st0" points="628.67,648 619.94,656.73 576,700.68 576,648 	"/>
+	<polygon id="LF7" class="st0" points="670.85,504 576,598.85 576,504 	"/>
+	<polygon id="LF6" class="st0" points="360,407.56 360,504 263.56,504 314.47,453.09 335.56,432 	"/>
+	<polygon id="LF5" class="st0" points="504,467.21 504,569.03 497.03,576 467.21,605.83 432,641.03 432,539.21 467.21,504 	"/>
+	<polygon id="LF4" class="st0" points="576,510.97 576,700.68 556.68,720 504,720 504,438.97 	"/>
+	<polygon id="LF3" class="st0" points="576,409.15 576,510.97 467.21,402.18 504,365.38 509.38,360 518.12,351.27 526.85,360 
+		569.03,402.18 	"/>
+	<polygon id="LF2" class="st0" points="432,437.38 432,720 360,720 360,509.38 365.38,504 416.3,453.09 	"/>
+	<polygon id="LF1" class="st0" points="518.12,351.27 509.38,360 504,365.38 467.21,402.18 437.38,432 432,437.38 416.3,453.09 
+		365.38,504 360,509.38 360,407.56 365.39,402.18 407.56,360 416.3,351.27 432,335.56 467.21,300.36 	"/>
+</g>
+<g id="guidelines">
+	<line id="VL4" class="st1" x1="576" y1="72" x2="576" y2="936"/>
+	<line id="VL3" class="st1" x1="504" y1="72" x2="504" y2="936"/>
+	<line id="VL2" class="st1" x1="432" y1="72" x2="432" y2="936"/>
+	<line id="VL1" class="st1" x1="360" y1="72" x2="360" y2="936"/>
+	<line id="HL6" class="st2" x1="72" y1="720" x2="936" y2="720"/>
+	<line id="HL5" class="st2" x1="72" y1="648" x2="936" y2="648"/>
+	<line id="HL4" class="st2" x1="72" y1="576" x2="936" y2="576"/>
+	<line id="HL3" class="st2" x1="72" y1="504" x2="936" y2="504"/>
+	<line id="HL2" class="st2" x1="72" y1="432" x2="936" y2="432"/>
+	<line id="HL1" class="st2" x1="72" y1="360" x2="936" y2="360"/>
+	<line id="DLL6" class="st3" x1="9" y1="351.26" x2="619.94" y2="962.21"/>
+	<line id="DLL5" class="st3" x1="59.91" y1="300.35" x2="670.85" y2="911.29"/>
+	<line id="DLL4" class="st3" x1="110.82" y1="249.44" x2="721.76" y2="860.38"/>
+	<line id="DLL3" class="st3" x1="161.74" y1="198.53" x2="772.68" y2="809.47"/>
+	<line id="DLL2" class="st3" x1="212.65" y1="147.62" x2="823.59" y2="758.56"/>
+	<line id="DLL1" class="st3" x1="263.56" y1="96.71" x2="874.5" y2="707.65"/>
+	<line id="DRL6" class="st4" x1="314.47" y1="962.21" x2="925.41" y2="351.26"/>
+	<line id="DRL5" class="st4" x1="263.56" y1="911.29" x2="874.5" y2="300.35"/>
+	<line id="DRL4" class="st4" x1="212.65" y1="860.38" x2="823.59" y2="249.44"/>
+	<line id="DRL3" class="st4" x1="161.74" y1="809.47" x2="772.68" y2="198.53"/>
+	<line id="DRL2" class="st4" x1="110.82" y1="758.56" x2="721.76" y2="147.62"/>
+	<line id="DRL1" class="st4" x1="59.91" y1="707.65" x2="670.85" y2="96.71"/>
+</g>
+</svg>

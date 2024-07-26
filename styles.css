@@ -5,12 +5,23 @@
     --clr-accent: #2c3801;
 }
 
-.headyeah {
-    text-align: left;
-    font-weight: 300;
-    font-size: 30px;
+.navbar-brand {
+    margin-right: 0;
 }
 
-.sampleimg {
-    image-resolution: 50%;
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.1em;
+    padding: .5em 1.5em;
+}
+
+@media screen and (min-width:992px) {
+    .navbar-brand {
+        margin-right: 0;
+        padding: 0 1.5em;
+    }
 }
